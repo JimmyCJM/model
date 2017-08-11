@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce7259c7-91e8-4c20-bfe8-0da2f20bf03c" name="Default" comment="170808">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170811.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="170810.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/170810.js">
+      <file leaf-file-name="170811.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/170811.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -50,6 +51,7 @@
         <option value="$PROJECT_DIR$/../collection-calculate-camp-master/practices/superposition_operation/own_elements_operation/subscript_is_even/calculate_average.js" />
         <option value="$PROJECT_DIR$/170809.js" />
         <option value="$PROJECT_DIR$/170810.js" />
+        <option value="$PROJECT_DIR$/170811.js" />
       </list>
     </option>
   </component>
@@ -91,6 +93,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,8 +106,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,31 +125,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.170810.js">
+  <component name="RunManager" selected="Node.js.170811.js">
     <configuration name="170809.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="170809.js" working-dir="$PROJECT_DIR$" />
     <configuration name="170810.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="170810.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="170811.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="170811.js" working-dir="$PROJECT_DIR$" />
     <configuration name="amount_even.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="amount_even.js" working-dir="$PROJECT_DIR$/../collection-calculate-camp-master/practices/superposition_operation/interval_operation" />
     <configuration name="average_uneven.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="average_uneven.js" working-dir="$PROJECT_DIR$/../collection-calculate-camp-master/practices/superposition_operation/interval_operation" />
-    <configuration name="practice.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="practice.js" working-dir="$PROJECT_DIR$/../collection-calculate-camp-master/practices/section_3/practice_4" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.practice.js (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.amount_even.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.average_uneven.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.170809.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.170810.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.amount_even.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.average_uneven.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.170809.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.170810.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.170811.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.170810.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.170809.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.average_uneven.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.amount_even.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.practice.js (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.170811.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.170810.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.170809.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.average_uneven.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.amount_even.js" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -161,7 +166,8 @@
       <workItem from="1502178738003" duration="3840000" />
       <workItem from="1502258726781" duration="1270000" />
       <workItem from="1502327766093" duration="253000" />
-      <workItem from="1502342470896" duration="3910000" />
+      <workItem from="1502342470896" duration="4029000" />
+      <workItem from="1502426920492" duration="3611000" />
     </task>
     <task id="LOCAL-00001" summary="170808">
       <created>1502178096699</created>
@@ -181,18 +187,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12137000" />
+    <option name="totallyTimeSpent" value="15867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33015874" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33015874" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -220,6 +227,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/170810.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/170809.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -436,7 +451,15 @@
     <entry file="file://$PROJECT_DIR$/170810.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/170811.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="45" />
           <folding />
         </state>
       </provider>
